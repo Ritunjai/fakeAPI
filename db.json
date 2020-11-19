@@ -1,0 +1,38 @@
+{
+  "EWA": [
+    {
+      "count": 2,
+      "title": "Red"
+    },
+    {
+      "count": 2,
+      "title": "Green"
+    },
+    {
+      "count": 3,
+      "title": "Yellow"
+    },
+    {
+      "count": 2,
+      "title": "Grey"
+    }
+  ],
+  "Status": [
+    {
+      "count": 6,
+      "title": "Open"
+    },
+    {
+      "count": 8,
+      "title": "Close"
+    },
+    {
+      "count": 4,
+      "title": "Pending"
+    },
+    {
+      "count": 4,
+      "title": "In Progress"
+    }
+  ]
+}
